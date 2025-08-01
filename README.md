@@ -1,6 +1,10 @@
 # Odd-Even-Game : A simple React game to test your luck — choose Odd or Even and see if you win!
 React frontend project for fun
 
+### 🚀 Live Preview
+
+**[Open Odd Even Game on Netlify](https://coruscating-lebkuchen-df9bf9.netlify.app/)**
+
 ![Alt Text](OddEvenGameSS.png)
 
 
