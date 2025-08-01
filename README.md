@@ -1,4 +1,4 @@
-# Odd-Even-Game
+# Odd-Even-Game : A simple React game to test your luck — choose Odd or Even and see if you win!
 React frontend project for fun
 
 ![Alt Text](OddEvenGameSS.png)
